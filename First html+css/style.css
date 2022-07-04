@@ -1,0 +1,15 @@
+h1{ color: orange;
+    background-color: bisque;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial;
+    text-align: center;
+}
+p {
+    color: gray;
+    text-align: right;
+    letter-spacing: 3px;
+    column-count: 3;
+    column-count: 30px
+    ;
+}
