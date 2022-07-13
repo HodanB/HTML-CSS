@@ -1,0 +1,14 @@
+h1{ color: rgb(13, 158, 231);
+    
+    font-size: 60px;
+    text-decoration: underline;
+    font-family: cursive;
+    text-align: center;
+}
+form{ color: rgba(23, 22, 22, 0.43);
+    
+    font-size:30px;
+  
+    font-family: arial;
+    text-align: left;
+}
